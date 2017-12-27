@@ -2,6 +2,8 @@
 
 Collection of draw.io (https://www.draw.io/) diagrams to document various work- and dataflows in Mali Media Group, most notably overviews of the different dataflows built on the [Amazon AWS platform](https://aws.amazon.com/).
 
+The repository for (most of) these λ-functions is here: https://github.com/Malimediagroup/AWS-lambda.
+
 ## Data-Lake-flow
 
 ![Data-Lake-flow](./Data-Lake-flow.png "Data-Lake-flow")
